@@ -1,0 +1,11 @@
+streamlit==1.64.0
+numpy==1.26.4
+pandas
+requests
+python-dotenv
+groq
+supabase
+opencv-python==4.11.0.86
+mediapipe==0.10.21
+streamlit-webrtc
+av
